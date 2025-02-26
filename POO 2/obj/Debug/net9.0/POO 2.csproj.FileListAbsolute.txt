@@ -1,0 +1,28 @@
+c:\Users\yukki\Documents\C#\POO 2\POO 2\bin\Debug\net9.0\appsettings.Development.json
+c:\Users\yukki\Documents\C#\POO 2\POO 2\bin\Debug\net9.0\appsettings.json
+c:\Users\yukki\Documents\C#\POO 2\POO 2\bin\Debug\net9.0\POO 2.staticwebassets.endpoints.json
+c:\Users\yukki\Documents\C#\POO 2\POO 2\bin\Debug\net9.0\POO 2.exe
+c:\Users\yukki\Documents\C#\POO 2\POO 2\bin\Debug\net9.0\POO 2.deps.json
+c:\Users\yukki\Documents\C#\POO 2\POO 2\bin\Debug\net9.0\POO 2.runtimeconfig.json
+c:\Users\yukki\Documents\C#\POO 2\POO 2\bin\Debug\net9.0\POO 2.dll
+c:\Users\yukki\Documents\C#\POO 2\POO 2\bin\Debug\net9.0\POO 2.pdb
+c:\Users\yukki\Documents\C#\POO 2\POO 2\obj\Debug\net9.0\POO 2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\yukki\Documents\C#\POO 2\POO 2\obj\Debug\net9.0\POO 2.AssemblyInfoInputs.cache
+c:\Users\yukki\Documents\C#\POO 2\POO 2\obj\Debug\net9.0\POO 2.AssemblyInfo.cs
+c:\Users\yukki\Documents\C#\POO 2\POO 2\obj\Debug\net9.0\POO 2.csproj.CoreCompileInputs.cache
+c:\Users\yukki\Documents\C#\POO 2\POO 2\obj\Debug\net9.0\POO 2.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\yukki\Documents\C#\POO 2\POO 2\obj\Debug\net9.0\scopedcss\bundle\POO 2.styles.css
+c:\Users\yukki\Documents\C#\POO 2\POO 2\obj\Debug\net9.0\staticwebassets.build.json
+c:\Users\yukki\Documents\C#\POO 2\POO 2\obj\Debug\net9.0\staticwebassets.development.json
+c:\Users\yukki\Documents\C#\POO 2\POO 2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+c:\Users\yukki\Documents\C#\POO 2\POO 2\obj\Debug\net9.0\staticwebassets\msbuild.POO 2.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\yukki\Documents\C#\POO 2\POO 2\obj\Debug\net9.0\staticwebassets\msbuild.POO 2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+c:\Users\yukki\Documents\C#\POO 2\POO 2\obj\Debug\net9.0\staticwebassets\msbuild.build.POO 2.props
+c:\Users\yukki\Documents\C#\POO 2\POO 2\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.POO 2.props
+c:\Users\yukki\Documents\C#\POO 2\POO 2\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.POO 2.props
+c:\Users\yukki\Documents\C#\POO 2\POO 2\obj\Debug\net9.0\staticwebassets.pack.json
+c:\Users\yukki\Documents\C#\POO 2\POO 2\obj\Debug\net9.0\POO 2.dll
+c:\Users\yukki\Documents\C#\POO 2\POO 2\obj\Debug\net9.0\refint\POO 2.dll
+c:\Users\yukki\Documents\C#\POO 2\POO 2\obj\Debug\net9.0\POO 2.pdb
+c:\Users\yukki\Documents\C#\POO 2\POO 2\obj\Debug\net9.0\POO 2.genruntimeconfig.cache
+c:\Users\yukki\Documents\C#\POO 2\POO 2\obj\Debug\net9.0\ref\POO 2.dll

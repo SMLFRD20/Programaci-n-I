@@ -1,0 +1,14 @@
+C:\Users\yukki\source\repos\Centralita telefónica\bin\Debug\net8.0\Centralita telefónica.exe
+C:\Users\yukki\source\repos\Centralita telefónica\bin\Debug\net8.0\Centralita telefónica.deps.json
+C:\Users\yukki\source\repos\Centralita telefónica\bin\Debug\net8.0\Centralita telefónica.runtimeconfig.json
+C:\Users\yukki\source\repos\Centralita telefónica\bin\Debug\net8.0\Centralita telefónica.dll
+C:\Users\yukki\source\repos\Centralita telefónica\bin\Debug\net8.0\Centralita telefónica.pdb
+C:\Users\yukki\source\repos\Centralita telefónica\obj\Debug\net8.0\Centralita telefónica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yukki\source\repos\Centralita telefónica\obj\Debug\net8.0\Centralita telefónica.AssemblyInfoInputs.cache
+C:\Users\yukki\source\repos\Centralita telefónica\obj\Debug\net8.0\Centralita telefónica.AssemblyInfo.cs
+C:\Users\yukki\source\repos\Centralita telefónica\obj\Debug\net8.0\Centralita telefónica.csproj.CoreCompileInputs.cache
+C:\Users\yukki\source\repos\Centralita telefónica\obj\Debug\net8.0\Centralita telefónica.dll
+C:\Users\yukki\source\repos\Centralita telefónica\obj\Debug\net8.0\refint\Centralita telefónica.dll
+C:\Users\yukki\source\repos\Centralita telefónica\obj\Debug\net8.0\Centralita telefónica.pdb
+C:\Users\yukki\source\repos\Centralita telefónica\obj\Debug\net8.0\Centralita telefónica.genruntimeconfig.cache
+C:\Users\yukki\source\repos\Centralita telefónica\obj\Debug\net8.0\ref\Centralita telefónica.dll

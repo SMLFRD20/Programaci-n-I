@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "(Sergio Lugo 24-0951) Práctica Herencia C#-2/1.0.0": {
+        "runtime": {
+          "(Sergio Lugo 24-0951) Práctica Herencia C#-2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "(Sergio Lugo 24-0951) Práctica Herencia C#-2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

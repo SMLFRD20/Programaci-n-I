@@ -1,0 +1,14 @@
+C:\Users\yukki\source\repos\(Sergio Lugo 24-0951) Práctica Herencia C#-2\obj\Debug\net8.0\(Sergio Lugo 24-0951) Práctica Herencia C#-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yukki\source\repos\(Sergio Lugo 24-0951) Práctica Herencia C#-2\obj\Debug\net8.0\(Sergio Lugo 24-0951) Práctica Herencia C#-2.AssemblyInfoInputs.cache
+C:\Users\yukki\source\repos\(Sergio Lugo 24-0951) Práctica Herencia C#-2\obj\Debug\net8.0\(Sergio Lugo 24-0951) Práctica Herencia C#-2.AssemblyInfo.cs
+C:\Users\yukki\source\repos\(Sergio Lugo 24-0951) Práctica Herencia C#-2\obj\Debug\net8.0\(Sergio Lugo 24-0951) Práctica Herencia C#-2.csproj.CoreCompileInputs.cache
+C:\Users\yukki\source\repos\(Sergio Lugo 24-0951) Práctica Herencia C#-2\bin\Debug\net8.0\(Sergio Lugo 24-0951) Práctica Herencia C#-2.exe
+C:\Users\yukki\source\repos\(Sergio Lugo 24-0951) Práctica Herencia C#-2\bin\Debug\net8.0\(Sergio Lugo 24-0951) Práctica Herencia C#-2.deps.json
+C:\Users\yukki\source\repos\(Sergio Lugo 24-0951) Práctica Herencia C#-2\bin\Debug\net8.0\(Sergio Lugo 24-0951) Práctica Herencia C#-2.runtimeconfig.json
+C:\Users\yukki\source\repos\(Sergio Lugo 24-0951) Práctica Herencia C#-2\bin\Debug\net8.0\(Sergio Lugo 24-0951) Práctica Herencia C#-2.dll
+C:\Users\yukki\source\repos\(Sergio Lugo 24-0951) Práctica Herencia C#-2\bin\Debug\net8.0\(Sergio Lugo 24-0951) Práctica Herencia C#-2.pdb
+C:\Users\yukki\source\repos\(Sergio Lugo 24-0951) Práctica Herencia C#-2\obj\Debug\net8.0\(Sergio Lugo 24-0951) Práctica Herencia C#-2.dll
+C:\Users\yukki\source\repos\(Sergio Lugo 24-0951) Práctica Herencia C#-2\obj\Debug\net8.0\refint\(Sergio Lugo 24-0951) Práctica Herencia C#-2.dll
+C:\Users\yukki\source\repos\(Sergio Lugo 24-0951) Práctica Herencia C#-2\obj\Debug\net8.0\(Sergio Lugo 24-0951) Práctica Herencia C#-2.pdb
+C:\Users\yukki\source\repos\(Sergio Lugo 24-0951) Práctica Herencia C#-2\obj\Debug\net8.0\(Sergio Lugo 24-0951) Práctica Herencia C#-2.genruntimeconfig.cache
+C:\Users\yukki\source\repos\(Sergio Lugo 24-0951) Práctica Herencia C#-2\obj\Debug\net8.0\ref\(Sergio Lugo 24-0951) Práctica Herencia C#-2.dll
